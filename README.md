@@ -43,7 +43,11 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ROBOVERSE-1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROBOVERSE-1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  
   </div>
+   <center>
+ <a href=""><img alt="Zaheer's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ROBOVERSE-1&bg_color=1F222E&color=ad73e7&line=a25bc8&point=e8e8e8&area=true&hide_border=true" /></a>
+ </center>
   <h2>🔥 Streak Stats</h2>
    <a><img alt="Mubeen's streak" src="https://streak-stats.demolab.com?user=ROBOVERSE-1&theme=tokyonight-duo&border_radius=3.4"/></a> 
 
