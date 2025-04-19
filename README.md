@@ -41,5 +41,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roboverse-1&show_icons=true&locale=en" alt="roboverse-1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roboverse-1&" alt="roboverse-1" /></p>
+  <h2>🔥 Streak Stats</h2>
+   <a><img alt="Mubeen's streak" src="https://streak-stats.demolab.com?user=Zaheer-10&theme=tokyonight-duo&border_radius=3.4"/></a> 
 
