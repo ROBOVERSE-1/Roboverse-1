@@ -41,8 +41,7 @@
  <h2>📊GitHub Profile Stats</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=roboverse-1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roboverse-10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROBOVERSE-1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   <h2>🔥 Streak Stats</h2>
    <a><img alt="Mubeen's streak" src="https://streak-stats.demolab.com?user=ROBOVERSE-1&theme=tokyonight-duo&border_radius=3.4"/></a> 
 
