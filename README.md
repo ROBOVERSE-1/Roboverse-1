@@ -40,7 +40,7 @@
 
 <div style="flex: 1; padding: 10px; box-sizing: border-box; display: flex; flex-direction: column;">
        <h2>📊GitHub Profile Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=ROBOVERSE-1-10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ROBOVERSE-1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROBOVERSE-1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   </div>
