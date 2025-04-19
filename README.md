@@ -2,8 +2,13 @@
   <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
 </p>
 <h1 align="center">
-        Hi, I'm Zaheer
+        Hi, I'm Mubeen
  <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></a>
+</h1>
+<p align="center">
+<a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&duration=4000&pause=900&color=E036F7&width=435&lines=ML+Engineer++;AI+Developer;NLP+Enthusiast;Deep+Learning+Enthusiast+;Clean+Code+Evangelist" alt="Typing SVG" /></a>
+</p>
 <h3 align="center">A passionate Electrical Engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roboverse-1&label=Profile%20views&color=0e75b6&style=flat" alt="roboverse-1" /> </p>
