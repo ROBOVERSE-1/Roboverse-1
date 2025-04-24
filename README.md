@@ -5,7 +5,12 @@
         Hi, I'm Mubeen
  <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></a>
 </h1>
-
+<p align="center" style="font-size: 30px; font-weight: bold;">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Frontend+Developer;Electrical+Engineer;" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="700" height="400" alt="Animated GIF" />
+</p>
 <h3 align="center">A passionate Electrical Engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roboverse-1&label=Profile%20views&color=0e75b6&style=flat" alt="roboverse-1" /> </p>
